@@ -1,0 +1,7 @@
+Business Problem:
+
+A friend wants to check which neighborhoods in Toronto would be ideal to open an Italian Restaurant. The restaurant would ideally be in an area which already has some presence of Italian Restaurants so that opening a new one is not risky.
+ 
+Data:
+
+Foursquare will be used as a source to obtain the data for finding neighborhoods which are similar and have Italian restaurants already.
